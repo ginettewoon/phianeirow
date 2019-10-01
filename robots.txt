@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phagahfiog.ryan.care/sitemap.xml
